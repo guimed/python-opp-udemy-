@@ -1,1 +1,1 @@
-# python-opp-udemy course- (Python in Depth) author: Deepali Srivastava
+# solutions to 'python-opp (Python in Depth)' author: Deepali Srivastava' exercises
