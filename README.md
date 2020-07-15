@@ -1,1 +1,1 @@
-# solutions to 'python-opp (Python in Depth)' author: Deepali Srivastava' exercises
+# solutions to 'python-opp (Python in Depth)' exercises (author: Deepali Srivastava') 
