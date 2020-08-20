@@ -1,3 +1,5 @@
+# with getter (property) and setter
+
 class Employee:
     allowed_domains = {'yahoo.com', 'gmail.com', 'outlook.com'}
     
