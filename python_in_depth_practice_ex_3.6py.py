@@ -15,6 +15,9 @@ class Stack:
         if self.size == Stack.Max_Size:
             raise RuntimeError('Stack is full')
         self.items.append(item)
+      
+    def peek(self):
+        return self.items[len(self.items) - 1]
 
     def pop(self):
         if self.is_empty():
